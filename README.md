@@ -20,9 +20,9 @@ Esse projeto, desenvolvido como parte das atividades propostas dentro da imersã
 
 <div >
   <a >
-   <img src="https://github.com/Thamine-sumaya/Projeto-APoIar/assets/160533319/158471ac-c49c-42bf-ac3b-5c848cc61c1b" width="200" align = "left" >
+   <img src="https://github.com/Thamine-sumaya/Projeto-APoIar/assets/160533319/822ef50f-926f-4aaa-9df7-e166f206ff28" width="145" align = "left" >
 </a>
-  <p align = "left">Ela não só consegue te informar sobre duvidas que você tenha, como também identifica plantas através de imagens, e recomenda as melhores técnicas de cuidado, considerando as necessidades da planta. </p>
+  <p align = "left" text-align = "center" >Ela não só consegue te informar sobre duvidas que você tenha, como também identifica plantas através de imagens, e recomenda as melhores técnicas de cuidado, considerando as necessidades da planta. </p>
   <p> Inclusive, consegue programar alarmes para você não esquecer de regar suas plantinhas.</p>
 </div>
 <br>
@@ -31,3 +31,17 @@ Esse projeto, desenvolvido como parte das atividades propostas dentro da imersã
 <br>
 
 ![Conteúdo](https://github.com/Thamine-sumaya/Projeto-APoIar/assets/160533319/e8dbf21b-323a-4eb0-98fa-ff5c6604c41a)
+
+O projeto é composto por um Jupyter Notebook e foi totalmente criado dentro do google colab, o editor de código do Google, com auxílio da Gemini.
+
+![Ferramentas](https://github.com/Thamine-sumaya/Projeto-APoIar/assets/160533319/a56ed6d5-c084-469c-b4ab-1a0290be1744)
+
+![Como utilizar](https://github.com/Thamine-sumaya/Projeto-APoIar/assets/160533319/7e3ac53d-73bc-4abe-85e1-f9bca58e23ef)
+Para reproduzir os resultados ou experimentar com o código, siga estas etapas:
+
+1. Clone este repositório para o seu ambiente local usando `git clone`.
+2. Instale as dependências necessárias listadas no arquivo [`requirements.md`]().
+3. Execute os códigos para reproduzir os resultados ou fazer modificações conforme necessário.
+
+![Contribuições](https://github.com/Thamine-sumaya/Projeto-APoIar/assets/160533319/992fbed8-fbcf-430b-b6be-c737cd0da21f)
+
