@@ -28,7 +28,6 @@ Esse projeto, desenvolvido como parte das atividades propostas dentro da [imers√
 <br>
 <br>
 <br>
-<br>
 
 ![Conte√∫do](https://github.com/Thamine-sumaya/Projeto-APoIar/assets/160533319/e8dbf21b-323a-4eb0-98fa-ff5c6604c41a)
 
