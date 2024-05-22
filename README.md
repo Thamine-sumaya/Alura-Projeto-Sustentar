@@ -49,7 +49,7 @@ Para reproduzir os resultados ou experimentar com o código, siga estas etapas:
 
 1. Clone este repositório para o seu ambiente local usando `git clone`.
 2. Adicione sua API Key.
-3. Instale as dependências necessárias listadas no arquivo [`requirements.md`](https://github.com/Thamine-sumaya/Projeto-Sustentar/blob/main/requirements.md).
+3. Instale as dependências necessárias listadas no arquivo [`requirements.md`](https://github.com/Thamine-sumaya/Alura-Projeto-Sustentar/blob/main/requirements.md).
 4. Execute os códigos para reproduzir os resultados ou fazer modificações conforme necessário.
 
 ![Contribuições](https://github.com/Thamine-sumaya/Projeto-APoIar/assets/160533319/992fbed8-fbcf-430b-b6be-c737cd0da21f)
